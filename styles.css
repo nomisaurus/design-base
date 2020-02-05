@@ -1,0 +1,101 @@
+/* Add application styles & imports to this file! */
+
+/* body {
+  color: #3c2323;
+  background: #fffdf6;
+} */
+
+/* ::selection {
+    background-color: #b3e6c9;
+} */
+
+/* a {
+    color: #20603c;
+} */
+
+/* .navbar-brand {
+  color: #0d1b24 !important;
+  font-size: 2rem;
+  font-weight: 700;
+} */
+
+/* .navbar-brand:hover {
+  color: #20603c !important;
+} */
+
+/* .nav-link {
+  color: #3c2323 !important;
+  font-size: 1.2rem;
+  font-weight: 700;
+} */
+
+/* .nav-item.active .nav-link {
+  color: red !important;
+} */
+
+/* .nav-link:hover {
+  color: #133a24 !important;
+} */
+
+/* .masthead {
+  background-color: #20603c;
+  background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+} */
+
+/* .py-6 {
+  padding: 3rem 1rem;
+} */
+
+/* .bg-primary {
+  color: #fff;
+  background: #20603c !important;
+} */
+
+/* .bg-secondary {
+  background: #655441  !important;
+} */
+
+/* .bg-light {
+  background: #fffdf6 !important;
+} */
+
+/* // Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+  /* .jumbotron {
+    background-color: #20603c;
+    background-size: 60%;
+    background-position: center right;
+    background-repeat: no-repeat;
+  } */
+
+  /* .py-md-6 {
+    padding-top: 10rem !important;
+    padding-bottom: 10rem !important;
+  } */
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+}
+
+ @media (min-width: 1200px) { 
+
+  /* .container {
+    max-width: 960px !important;
+  } */
+
+ }
