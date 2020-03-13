@@ -1,0 +1,23 @@
+{
+  "name": "design-base",
+  "version": "1.0.0",
+  "description": "[Live View](https://nomisaurus.github.io/design-base/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomisaurus/design-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomisaurus/design-base/issues"
+  },
+  "homepage": "https://github.com/nomisaurus/design-base#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
